@@ -1,4 +1,4 @@
-# 记录一下本站使用的一些随机图API
+# 整理记录一些好用的随机图API（记录一下本站使用的一些随机图API）
 
 本主题的提供者提供了一个非常好的随机图API，但是貌似有时候会挂，所以自己又找了一些有意思的随机图API，在这里做个记录，供后续维护使用。
 
@@ -48,5 +48,5 @@
 
 
 我是 [fx67ll.com](https://fx67ll.com)，如果您发现本文有什么错误，欢迎在评论区讨论指正，感谢您的阅读！  
-如果您喜欢这篇文章，欢迎访问我的 [本文github仓库地址](https://github.com/fx67ll/fx67llHalo)，为我点一颗Star，Thanks~ :)  
+如果您喜欢这篇文章，欢迎访问我的 [本文github仓库地址](https://github.com/fx67ll/fx67llHalo/blob/main/halo-blog/2021/2021-11/random-picture.md)，为我点一颗Star，Thanks~ :)  
 ***转发请注明参考文章地址，非常感谢！！！***
